@@ -1,0 +1,5 @@
+venv/
+temp_main.wav
+temp_speech.wav
+__pycache__/
+*.png
