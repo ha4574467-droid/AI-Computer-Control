@@ -12,5 +12,6 @@ An AI-powered computer vision and speech recognition system that allows users to
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ha4574467-droid/AI-Computer-Control.git](https://github.com/ha4574467-droid/AI-Computer-Control.git)
+  git clone https://github.com/ha4574467-droid/AI-Computer-Control.git
+  
    cd AI-Computer-Control
